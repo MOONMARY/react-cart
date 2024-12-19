@@ -1,0 +1,24 @@
+{
+  "shoplist": [
+    {
+      "id": "1",
+      "name": "새우깡",
+      "isBought": false
+    },
+    {
+      "id": "2",
+      "name": "포키",
+      "isBought": false
+    },
+    {
+      "id": "3",
+      "name": "PUT TEST",
+      "isBought": false
+    },
+    {
+      "id": "4",
+      "name": "콘칩",
+      "isBought": false
+    }
+  ]
+}
