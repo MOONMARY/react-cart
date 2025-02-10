@@ -19,6 +19,11 @@
       "id": "4",
       "name": "콘칩",
       "isBought": false
+    },
+    {
+      "id": 5,
+      "name": "안뇽",
+      "isBought": false
     }
   ]
 }

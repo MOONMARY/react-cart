@@ -6,7 +6,7 @@ import BoughtList from "./components/BoughtList.jsx";
 import CartFooter from "./components/CartFooter.jsx";
 
 function App() {
-  const apiUrl = "http://localhost:1337/shoplist";
+  const apiUrl = "http://localhost:3000/shoplist";
   // //서버로부터 API 호출해서 쇼핑 목록 받아오기
   // const [itemList, setItemList] = useState([
   //   //상태변수(itemList), 상태변경함수(setItemList)에 할당된다
