@@ -1,6 +1,6 @@
 function ShopList({ items, toggleBought, deleteItem }) {
-  //isBought ===false인 아이템들
-  console.log("살 물건들: ", items);
+  //  isBought === false인 아이템들
+  console.log("살 물건들:", items);
   return (
     <div>
       <h2>살 물건들</h2>
